@@ -1,6 +1,6 @@
 # HMM-Tagger
 
-The first project of [Udacity](https://www.udacity.com/)'s [Natural Language Processing Nanodegree Program](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) consists of building a part-of-speech tagger using Hidden Markov models. In this repository I will cover all the steps that are required to complete this project.
+The first project of [Udacity's](https://www.udacity.com/) [Natural Language Processing Nanodegree Program](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) consists of building a part-of-speech tagger using Hidden Markov models. In this repository I will cover all the steps that are required to complete this project.
 
 My model achieved an accuracy of 97.49 % on the trianing dataset and 95.87 % on the testing dataset.
 
