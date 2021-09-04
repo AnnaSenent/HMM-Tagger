@@ -9,5 +9,9 @@ My model achieved an accuracy of 97.49 % on the trianing dataset and 95.87 % on 
 
 - The [Pomegranate](https://github.com/jmschrei/pomegranate) library was used to build the Hidden Markov model. This library allows us to specify the two distributions that will serve as parameters to the HMM network, the emission probability distribution and the transition probability distribution, which corresponds to the conditional probability of changing states in a given sequence. Moreover, we can specify the starting probability distribution, which describes the probability of a sequence starting at that state.
 
-For details on the dataset, refer to Chapter 5 of the NLTK book.
+### Resources:
+
+For details on the dataset, refer to [Chapter 5](http://www.nltk.org/book/ch05.html) of the [NLTK](https://www.nltk.org/book/) book.
+
+For more information about Hidden Markov models you can consult [Chapter A](https://web.stanford.edu/~jurafsky/slp3/A.pdf) of the [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) book.
 
